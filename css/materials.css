@@ -1,10 +1,10 @@
-h2 {color:#D2B48C;}
-h3 {color: #8B5A2B;}
+h2 {color:#D2B48C; font-family:Impact}
+h3 {color: #8B5A2B; font-family:"Trebuchet MS"}
 
 html {
   background-color: #F5F5DC;
 }
 ol, li, ul {
-  color: #8B5A2B;
+  color: #8B5A2B; font-family:sans-serif;
 }
 a, a:link {color:#D2B48C;}

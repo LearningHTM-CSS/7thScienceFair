@@ -1,4 +1,5 @@
-html {background-color:#F5F5DC}
-h3 {color:#8B5A2B}
-p {color:black}
+html {background-color:#F5F5DC;}
+h3 {color:#8B5A2B; font-family:"Trebuchet MS"}
+h2 {font-family:Impact}
+p {color:black; font-family:sans-serif;}
 a, a:link{color:#D2B48C}

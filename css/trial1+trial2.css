@@ -1,7 +1,8 @@
 a, a:link {color:#D2B48C;}
 html {background-color:#F5F5DC; text-align:center;}
 table {margin:auto;}
-td {color:#D2B48C}
-th {color:#8B5A2B}
-caption {color:#8B5A2B}
-h3 {color:#D2B48C}
+td {color:#D2B48C; font-family:sans-serif;}
+th {color:#8B5A2B; font-family:"Trebuchet MS"}
+caption {color:#8B5A2B; font-family:"Trebuchet MS"}
+h2 {font-family:Impact}
+h3 {color:#D2B48C; font-family:"Trebuchet MS"}
