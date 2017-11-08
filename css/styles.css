@@ -5,13 +5,13 @@
   background-repeat: no-repeat; background-size:cover;
 }
 
-h1 {
+h1 {font-family:Impact;
     background-blend-mode: exclusion;color:#D2B48C; font-size: 80px; text-decoration: underline; font-weight: bold;
   ;
   }
 
-h2 {
+h2 {font-family:"Trebuchet MS";
     color:#8B5A2B; font-size:45px; text-decoration: underline; font-weight: bold; a:hover {color:brown; font-size: 80px}
   }
-ol,li {color:white; font-size:30px; text-decoration: none;}
-a:hover {color:#8B5A2B; font-size: 35px; text-decoration: underline;}
+ol,li {font-family:sans-serif;color:white; font-size:30px; text-decoration: none;}
+a:hover {font-faily:serif;color:#8B5A2B; font-size: 35px; text-decoration: underline;}
